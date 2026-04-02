@@ -1,3 +1,4 @@
 streamlit
 PdfReader
 PyPDF2
+Scikit-learn
